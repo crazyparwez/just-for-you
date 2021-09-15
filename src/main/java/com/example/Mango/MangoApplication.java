@@ -10,6 +10,7 @@ public class MangoApplication {
 		SpringApplication.run(MangoApplication.class, args);
 		System.out.println("mango,...");
 		System.out.println("it is orange"+new Orange());
+		System.out.println("hello babayljsfjsljf");
 	}
 
 }
